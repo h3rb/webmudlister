@@ -1,0 +1,5 @@
+body {background:#421; color:#FF9900; font-family: Georgia; font-size:14px; };
+a:link { color:orange; text-decoration:none }
+a:visited { color:#DD3300 }
+a:hover { color:yellow }
+a:active { color:white }
